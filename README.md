@@ -5,8 +5,9 @@ I'm from Seville 💃 but I live in Madrid 🏙️
 I'm a translator and a Full-Stack Developer💻
 
 I've studied the Full-Stack Developer program at **4Geeks Academy**.
-Tech Stack: JavaScript, Python, React, Flask, HTML5, CSS3, Bootstrap, GitHub
-Skills: Responsive design, RESTful APIs, distributed architectures, production deployment, version control, agile methodologies
+
+Tech Stack: **JavaScript, Python, React, Flask, HTML5, CSS3, Bootstrap, GitHub**
+Skills: **Responsive design, RESTful APIs, distributed architectures, production deployment, version control, agile methodologies**
 Developed multiple practical projects with focus on real-world market solutions. Program includes continuous mentorship and guaranteed technical support.
 
 🔭 I’m currently working on a project called **Fiesti**, a management app for music festivals. You can check the code below!
