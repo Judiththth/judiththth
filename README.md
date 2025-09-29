@@ -2,9 +2,16 @@
 
 I'm from Seville 💃 but I live in Madrid 🏙️
 
-I'm a translator and I'm currently a Full-Stack Developer student at **4Geeks Academy** 💻
+I'm a translator and a Full-Stack Developer Junior💻
 
-You can follow my professional achievements on [LinkedIn](https://www.linkedin.com/in/judith-ramirez-15048397/) <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-hero-fg-dsk-v01.png.original.png" style="height:20px">  
+I've studied the Full-Stack Developer program at **4Geeks Academy**.
+Tech Stack: JavaScript, Python, React, Flask, HTML5, CSS3, Bootstrap, GitHub
+Skills: Responsive design, RESTful APIs, distributed architectures, production deployment, version control, agile methodologies
+Developed multiple practical projects with focus on real-world market solutions. Program includes continuous mentorship and guaranteed technical support.
+
+🔭 I’m currently working on a project called **Fiesti**, a management app for music festivals. You can check the code below!
+
+Follow my professional achievements on [LinkedIn](https://www.linkedin.com/in/judith-ramirez-15048397/) <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-hero-fg-dsk-v01.png.original.png" style="height:20px">  
 & my personal/artistic things on [BlueSky](https://bsky.app/profile/judiththth.bsky.social) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png" style="height:20px">, [Instagram](https://www.instagram.com/judiththth/?hl=es) <img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" style="height:20px"> and [YouTube](https://www.youtube.com/@Judiththth) <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" style="height:20px">
 <!--
 **Judiththth/judiththth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
