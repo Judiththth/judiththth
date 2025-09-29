@@ -2,7 +2,7 @@
 
 I'm from Seville 💃 but I live in Madrid 🏙️
 
-I'm a translator and a Full-Stack Developer Junior💻
+I'm a translator and a Full-Stack Developer💻
 
 I've studied the Full-Stack Developer program at **4Geeks Academy**.
 Tech Stack: JavaScript, Python, React, Flask, HTML5, CSS3, Bootstrap, GitHub
